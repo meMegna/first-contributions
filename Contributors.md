@@ -60,5 +60,5 @@
 - [William Sutton](https://github.com/suttonwilliamd)
 - [Pbaboe](https://github.com/Pbaboe)
 - [Adarsh Lilha](https://github.com/adarshlilha)
-[Meghana](https://github.com/meMegna)
+- [Meghana](https://github.com/meMegna)
 
